@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{4A7836FA-73D7-BD9F-57C5-68DE1172C75D}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/UnityGLTF/Scripts/Loader/WebRequestLoader.cs">
+    <Files>
+      <File FileName="Assets/UnityGLTF/Scripts/Loader/WebRequestLoader.cs" Line="64" Column="4" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GltfLoading" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="UnityGLTF" expanded="True">
+                <Node name="Scripts" expanded="True">
+                  <Node name="Loader" expanded="True">
+                    <Node name="WebRequestLoader.cs" selected="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.GltfLoading PreferredExecutionTarget="892e4490-94af-424d-815b-6a968835c633" />
+</Properties>
